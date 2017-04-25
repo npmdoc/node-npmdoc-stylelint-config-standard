@@ -1,4 +1,7 @@
-# api documentation for  [stylelint-config-standard (v16.0.0)](https://github.com/stylelint/stylelint-config-standard#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-stylelint-config-standard.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-stylelint-config-standard) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-stylelint-config-standard.svg)](https://travis-ci.org/npmdoc/node-npmdoc-stylelint-config-standard)
+# npmdoc-stylelint-config-standard
+
+#### basic api documentation for  [stylelint-config-standard (v16.0.0)](https://github.com/stylelint/stylelint-config-standard#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-stylelint-config-standard.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-stylelint-config-standard) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-stylelint-config-standard.svg)](https://travis-ci.org/npmdoc/node-npmdoc-stylelint-config-standard)
+
 #### Standard shareable config for stylelint
 
 [![NPM](https://nodei.co/npm/stylelint-config-standard.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/stylelint-config-standard)
@@ -92,7 +95,8 @@
         "test": "jest",
         "watch": "jest --watch"
     },
-    "version": "16.0.0"
+    "version": "16.0.0",
+    "bin": {}
 }
 ```
 
